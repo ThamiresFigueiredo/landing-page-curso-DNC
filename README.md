@@ -2,6 +2,8 @@
 
 This is the source code for the DNC School website, which provides information about the courses offered and available resources. The website was developed using HTML, CSS, and JavaScript.
 
+Link to see it online: :https://lading-page-curso-dnc.netlify.app/
+
 ## Requirements
 
 - Modern web browser
@@ -54,6 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 # Escola DNC
 
 Este é o código-fonte do website da Escola DNC, que apresenta informações sobre os cursos oferecidos e recursos disponíveis. O site foi desenvolvido utilizando HTML, CSS e JavaScript.
+Clique para ver a solução online: https://lading-page-curso-dnc.netlify.app/
 
 ## Requisitos
 
