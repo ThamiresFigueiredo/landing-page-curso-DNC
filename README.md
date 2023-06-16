@@ -2,7 +2,7 @@
 
 This is the source code for the DNC School website, which provides information about the courses offered and available resources. The website was developed using HTML, CSS, and JavaScript.
 
-Link to see it online: :https://lading-page-curso-dnc.netlify.app/
+Link to see it online:https://lading-page-curso-dnc.netlify.app/
 
 ## Requirements
 
